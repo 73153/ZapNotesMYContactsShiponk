@@ -1,0 +1,37 @@
+First time we need to find the solution
+
+Space issue in the article detail list controller
+
+Article detail when popping white screen comes for more time than going in
+
+when channel name is large it is collaping with back button
+
+menu icon button hide when scrolling down the table content in the dashboard and show when coming to the top of the screen
+https://i.diawi.com/66mpDo
+
+Search do not call the table reload each typing and call only on search
+
+font size store in the global variable same as the brightness, when the font size is increased and popped then when we again go in to the article detail the font size change to small
+
+In the name and last name space added  is showing %20
+
+Search controller if the cancel is disabled still it is working 
+
+search controller when is not opening the side menu on swipe
+
+search controller when searched the test and again  searched the home then in the below there is space
+
+Loader is showing when refresh from top do not show the loader
+
+setting button  is changing the position when clicking on topics ,  and other menu buttons
+
+when clicking on the setting button it is opening the side menu instead of the directly going to the setting screen f
+
+
+when killing the application on clicking the login button it should take the data from the local DB not from the web service calling like, when the running app when we sign out and sign in it is taking data from local DB
+
+
+
+
+Performance issue   
+

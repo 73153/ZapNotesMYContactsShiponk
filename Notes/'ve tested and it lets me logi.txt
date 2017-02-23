@@ -1,0 +1,118 @@
+'ve tested and it lets me login.
+
+but I have another issue
+
+I was logged in as the user "Vanessa, Murphy" I logged out and then logged
+in with linkedin it now says that my name is vanessa.
+
+Also there is nowhere to fill in the last name field as its missing on your
+form and you are pushing the email address as the website property please
+check that you are pushing email as email only. see below
+
+*// user created with linkedin*
+
+db.users.find({'email':'ac_sweeney@yahoo.co.uk'}).pretty();
+
+{
+
+"_id" : ObjectId("5763ae7376999db5c6508589"),
+
+"userTypeName" : "Non-Managers",
+
+"uuid" : "82c4c719-6599-4d69-b7f6-44a55b9e7880",
+
+"clientId" : "f794fc62-dbea-4c87-ae9e-593bd8c38343",
+
+"firstName" : null,
+
+"lastName" : null,
+
+"company" : null,
+
+"website" : null,
+
+"email" : "ac_sweeney@yahoo.co.uk",
+
+"jobtitle" : null,
+
+"phoneNumber" : null,
+
+"profile" : null,
+
+"userTypeId" : "30cf488c-dcc5-4e20-bcb8-f6b9d6bc2dca",
+
+"deviceType" : "ios",
+
+"deviceToken" :
+"07bcabac96fa8572dc9e1855ed0fb96ac95561b42387c582db7c2f1d48131277",
+
+"oAuthToken" : "lNmYT8UBiv",
+
+"meta" : {
+
+"isValidated" : false,
+
+"isActive" : true,
+
+"createdAt" : ISODate("2016-06-17T08:01:55.057Z"),
+
+"updatedAt" : ISODate("2016-06-17T08:01:55.057Z")
+
+},
+
+"__v" : 0
+
+}
+
+*// same user after updating profile*
+
+db.users.find({'email':'ac_sweeney@yahoo.co.uk'}).pretty();
+
+{
+
+"_id" : ObjectId("5763ae7376999db5c6508589"),
+
+"userTypeName" : "Non-Managers",
+
+"uuid" : "82c4c719-6599-4d69-b7f6-44a55b9e7880",
+
+"clientId" : "f794fc62-dbea-4c87-ae9e-593bd8c38343",
+
+"firstName" : "adrian",
+
+"lastName" : null,
+
+"company" : "IrishAdo",
+
+* "website" : "ac_sweeney@yahoo.co.uk <ac_sweeney@yahoo.co.uk>",*
+
+"email" : "ac_sweeney@yahoo.co.uk",
+
+"jobtitle" : null,
+
+"profile" : null,
+
+"userTypeId" : "30cf488c-dcc5-4e20-bcb8-f6b9d6bc2dca",
+
+"deviceType" : "ios",
+
+"deviceToken" :
+"07bcabac96fa8572dc9e1855ed0fb96ac95561b42387c582db7c2f1d48131277",
+
+"oAuthToken" : "lNmYT8UBiv",
+
+"meta" : {
+
+"isValidated" : false,
+
+"isActive" : true,
+
+"createdAt" : ISODate("2016-06-17T08:01:55.057Z"),
+
+"updatedAt" : ISODate("2016-06-17T13:47:11.608Z")
+
+},
+
+"__v" : 0
+
+}

@@ -1,0 +1,33 @@
+1. App crashes randomly 
+15. App crashes on continuous scrolling.
+3. In landscape mode: Go to the second page and change the orientation & app will return to the first page. 
+4. In portrait mode: Go to the second page scroll on the pages in top. Change the orientation it will return to the first one. 
+6. In Article detail I can scroll up to more than content is available. 
+
+
+
+14. In the first page of the app, change the app mode from to face up/ face down, it will flickering the images. 
+
+13. Go to the last page in Portrait mode, change the orientation it will open your app in second last page. 
+12. On landscape, when scrolled to last page, cells not visible properly. Few data has been removed from the app. 
+7. In Article detail, From 3 last image is cut off (in both orientation) 
+11. open the article in Portrait mode, change it to landscape mode & return back to the main screen. It will change the offset and change it to weird behavior. 
+8. Open the video and change the orientation, it will not play in proper frame and merge with other data too. 
+2. On the last page in landscape mode there is a duplication of data. 
+5. First page in Landscape mode width of second and third data is not same. 
+
+
+
+ 
+
+-Article Detail screen, any orientation if changed to another, whole content not visible.
+-Article Detail screen, change the image displayed on the related articles cell.
+-Flickering happened only for the cells which contain video.
+-When face up/ face down orientation (iPad kept flat), even login does not work, app crashes.
+-Show thumbnail images in videos. (Arpit will do)
+-Check forget password functionality. (Arpit will do)
+-On landscape, when scrolled to last page, cells not visible properly. (only two cells visible instead of three in one row)
+-When face up/ face down orientation (iPad kept flat), channels and topics list not retrieved, collection view does not gets reloaded.
+
+jivaji university
+

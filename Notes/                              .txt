@@ -1,0 +1,15 @@
+                                   Hi when I was putting the Centralis pem file into the code base I noticed that the t-three one differs only from the arkadin on for the first cert in the file can you please check that the three one only has information for t three.
+
+Also The only code updates to the notification code before last night was the 10th of june when T-Three uuid was changed from "acab8234-5930-421f-9845-ee585e0cfc00" to "f794fc62-dbea-4c87-ae9e-593bd8c38343"
+
+prior to that the last update to that code was 19th May.
+
+So not certain why the notifications has stopped arriving.
+
+Last night I noticed that some accounts had a device token of 1234 which is incorrect I wiped those as they were causing the system to crash.
+
+I also noticed an android token in the database so I wrapped the code in a conditional statement that would only send the IOS device tokens.
+
+I am still waiting on receiving the code for the sending of Android notifications can I have that today please.
+
+Adrian

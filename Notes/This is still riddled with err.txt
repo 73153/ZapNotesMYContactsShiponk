@@ -1,0 +1,12 @@
+This is still riddled with errors. Please fix the below:
+
+On login, I do NOT want a screen with a grey image saying "no content found" and a loading circle until content is pulled in. Please ensure that the loading is done upon hitting the "sign-in" button and only shows the content when the content is loaded.
+
+
+I have signed out of the app and upon trying to sign back in the app fails to load any content. This needs to be fixed as this is broken.
+
+I would also like the 1.5 code base supplied for both android and the two variations of iOS devices (phone and iPad). Please push this into bit bucket as a matter of urgency. We agreed this would be provided after every change was completed and upon review of what has been received you haven't pushed updated code across since the 18th of May.
+
+This needs to happen after the above amends have been resolved.
+
+com.contento.com

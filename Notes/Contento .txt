@@ -1,0 +1,298 @@
+
+Contento 
+Soak
+ITV
+Unify
+Cxense
+Centralis 
+Ener-g
+
+
+Cxense                hiten@zaptechsolutions.com        (tirnanog)
+Tomorrow People Ltd        zaptech@zaptech.com            password
+Unify                zaptech@zaptechsolutions.com        password
+Centralis            zaptech@zaptechsolutions.com        password
+Ener-g                zaptech@zaptechsolutions.com        password
+
+For the updating data we are getting the response as weird behaviour for the adding the (.) full stop at end of title and also for the normal execution we are having the same face
+
+
+contento ipad
+
+contento iPhone
+https://i.diawi.com/WWjDYd
+http://api.contento.mobi/api/v2/channels?ts=2016-07-29T15:59:30
+ 
+Printing description of results:
+{
+    count = 0;
+    data =     (
+    );
+    limit = 10;
+    offset = 0;
+    success = 1;
+
+}
+
+http://api.staging.contento.mobi/api/v2/channels?ts=2016-07-30T09:14:25
+
+Printing description of results:
+{
+    count = 1;
+    data =     (
+                {
+            "__v" = 80;
+            "_id" = 5757eed3eed3577d230fdac5;
+            channelType = "0a36bd23-5930-421f-9845-ee585e0cfc52";
+            clientId = "acab8234-5930-421f-9845-ee585e0cfc52";
+            description = test;
+            feed =             {
+                recordtype = "<null>";
+                url = "<null>";
+            };
+            icon = news;
+            label = "Alternative Thinking..";
+            meta =             {
+                createdAt = "2016-06-08T10:09:23.866Z";
+                isActive = 1;
+                isDeleted = 0;
+                lastUpdated = "2016-07-30T09:14:30.750Z";
+                updatedAt = "2016-07-30T09:14:30.750Z";
+            };
+            topics =             (
+                                {
+                    "_id" = 5757f27aeed3577d230fdad0;
+                    record =                     {
+                        "__v" = 0;
+                        "_id" = 5757f27aeed3577d230fdad0;
+                        channelId =                         (
+                            "50a02a08-e145-4617-8038-115a1c757787"
+                        );
+                        channels =                         (
+                        );
+                        clientId = "acab8234-5930-421f-9845-ee585e0cfc52";
+                        meta =                         {
+                            createdAt = "2016-06-08T10:24:58.958Z";
+                            isActive = 1;
+                            isDeleted = 0;
+                            isNotificationActive = 1;
+                            updatedAt = "2016-06-08T10:24:58.958Z";
+                        };
+                        topicname = "Marketing Psychology";
+                        uuid = "59e2eb12-8801-47f0-8e08-d91949d12768";
+                    };
+                },
+                                {
+                    "_id" = 5757f290eed3577d230fdad1;
+                    record =                     {
+                        "__v" = 0;
+                        "_id" = 5757f290eed3577d230fdad1;
+                        channelId =                         (
+                            "50a02a08-e145-4617-8038-115a1c757787"
+                        );
+                        channels =                         (
+                        );
+                        clientId = "acab8234-5930-421f-9845-ee585e0cfc52";
+                        meta =                         {
+                            createdAt = "2016-06-08T10:25:20.282Z";
+                            isActive = 1;
+                            isDeleted = 0;
+                            isNotificationActive = 1;
+                            updatedAt = "2016-06-08T10:25:20.282Z";
+                        };
+                        topicname = "Challenging the Norm";
+                        uuid = "294e4e28-e7fe-4af8-a5d5-dc23f2bbb5c8";
+                    };
+                },
+                                {
+                    "_id" = 577fa47b5567aed354043108;
+                    record =                     {
+                        "__v" = 1;
+                        "_id" = 577fa47b5567aed354043108;
+                        channelId =                         (
+                            "a1234b84-d869-4880-8aaf-b4f2cf66445e",
+                            "3b297549-bad7-47aa-8ca8-0434f283ac84",
+                            "50a02a08-e145-4617-8038-115a1c757787",
+                            "720f66a0-c49f-4621-800e-10027be6ee3f",
+                            "9f711e45-ade9-4811-8d5f-952e6a639fc8",
+                            "15f37d43-f570-4422-9cd0-bf9e50024e81"
+                        );
+                        channels =                         (
+                                                        {
+                                "_id" = 577fa47b5567aed354043115;
+                                name = "Inbound Marketing";
+                                uuid = "a1234b84-d869-4880-8aaf-b4f2cf66445e";
+                            },
+                                                        {
+                                "_id" = 577fa47b5567aed354043116;
+                                name = "Inspirational Campaigns";
+                                uuid = "3b297549-bad7-47aa-8ca8-0434f283ac84";
+                            },
+                                                        {
+                                "_id" = 577fa47b5567aed354043117;
+                                name = "Alternative Thinking..";
+                                uuid = "50a02a08-e145-4617-8038-115a1c757787";
+                            },
+                                                        {
+                                "_id" = 577fa47b5567aed354043118;
+                                name = "Marketing Automation";
+                                uuid = "720f66a0-c49f-4621-800e-10027be6ee3f";
+                            },
+                                                        {
+                                "_id" = 577fa47b5567aed354043119;
+                                name = "Our Favourite Videos";
+                                uuid = "9f711e45-ade9-4811-8d5f-952e6a639fc8";
+                            },
+                                                        {
+                                "_id" = 577fa47b5567aed35404311a;
+                                name = "Thought Leaders";
+                                uuid = "15f37d43-f570-4422-9cd0-bf9e50024e81";
+                            }
+                        );
+                        clientId = "acab8234-5930-421f-9845-ee585e0cfc52";
+                        meta =                         {
+                            createdAt = "2016-07-08T13:02:51.464Z";
+                            isActive = 1;
+                            isDeleted = 0;
+                            isNotificationActive = 1;
+                            updatedAt = "2016-07-08T13:02:51.464Z";
+                        };
+                        topicname = "Test Topic";
+                        uuid = "955f83de-377d-4f09-b795-e895c850f3d1";
+                    };
+                },
+                                {
+                    "_id" = 577fa47b5567aed35404311b;
+                    record =                     {
+                        "__v" = 3;
+                        "_id" = 577fa47b5567aed35404311b;
+                        channelId =                         (
+                            "a1234b84-d869-4880-8aaf-b4f2cf66445e",
+                            "3b297549-bad7-47aa-8ca8-0434f283ac84",
+                            "50a02a08-e145-4617-8038-115a1c757787",
+                            "720f66a0-c49f-4621-800e-10027be6ee3f",
+                            "9f711e45-ade9-4811-8d5f-952e6a639fc8",
+                            "15f37d43-f570-4422-9cd0-bf9e50024e81"
+                        );
+                        channels =                         (
+                                                        {
+                                "_id" = 577fa4945567aed35404313a;
+                                name = "Inbound Marketing";
+                                uuid = "a1234b84-d869-4880-8aaf-b4f2cf66445e";
+                            },
+                                                        {
+                                "_id" = 577fa4945567aed35404313b;
+                                name = "Inspirational Campaigns";
+                                uuid = "3b297549-bad7-47aa-8ca8-0434f283ac84";
+                            },
+                                                        {
+                                "_id" = 577fa4945567aed35404313c;
+                                name = "Alternative Thinking..";
+                                uuid = "50a02a08-e145-4617-8038-115a1c757787";
+                            },
+                                                        {
+                                "_id" = 577fa4945567aed35404313d;
+                                name = "Marketing Automation";
+                                uuid = "720f66a0-c49f-4621-800e-10027be6ee3f";
+                            },
+                                                        {
+                                "_id" = 577fa4945567aed35404313e;
+                                name = "Our Favourite Videos";
+                                uuid = "9f711e45-ade9-4811-8d5f-952e6a639fc8";
+                            },
+                                                        {
+                                "_id" = 577fa4945567aed35404313f;
+                                name = "Thought Leaders";
+                                uuid = "15f37d43-f570-4422-9cd0-bf9e50024e81";
+                            }
+                        );
+                        clientId = "acab8234-5930-421f-9845-ee585e0cfc52";
+                        meta =                         {
+                            createdAt = "2016-07-08T13:02:51.542Z";
+                            isActive = 1;
+                            isDeleted = 0;
+                            isNotificationActive = 1;
+                            updatedAt = "2016-07-08T13:03:16.945Z";
+                        };
+                        topicname = "Test Topic with all Channels";
+                        uuid = "15132b32-f8fd-4f23-ba97-9ccd018430a4";
+                    };
+                }
+            );
+            userAccess =             (
+                "bda993ac-d308-418c-bb43-413044db665e",
+                "b8c86f1e-d305-4b9a-97d5-f1f7637ac036",
+                "d9cce7a0-8643-4c76-8f0b-0805720299d4",
+                "b6e4556c-322b-4bba-8577-75162df0d4dc"
+            );
+            uuid = "50a02a08-e145-4617-8038-115a1c757787";
+        }
+    );
+    limit = 10;
+    offset = 0;
+    success = 1;
+}
+
+(lldb) 
+ 
+http://api.staging.contento.mobi/api/v2/channels?ts=2016-07-30T09:15:18
+{
+    count = 0;
+    data =     (
+    );
+    limit = 10;
+    offset = 0;
+    success = 1;
+}
+https://i.diawi.com/RhdDTS
+ 
+Cxense                hiten@zaptechsolutions.com        (tirnanog)
+Tomorrow People Ltd        zaptech@zaptech.com            password
+Unify                zaptech@zaptechsolutions.com        password
+Centralis            zaptech@zaptechsolutions.com        password
+
+Ener-g                zaptech@zaptechsolutions.com        password
+Steps to change the Contento project to other Contento project
+	1.	Create provisioning profile and add bundle id from developer.apple.com 
+	2.	LinkedIn Id replace in info.plist in key (LIappId and urlTypes).
+	3.	Theme resources replace to current assets form Theme folder.
+	4.	Bundle name and display bundle name change in info.Plist
+	5.	Theme UUID and change settings for color in constant.h
+	6.	Replace 
+On landscape, when scrolled to last page, cells not visible properly. Few data has been removed from the app. 
+ On the last page in landscape mode there is a duplication of data. First page in Landscape mode width of second and third data is not same.
+
+open the article in Portrait mode, change it to landscape mode & return back to the main screen. It will change the offset and change it to weird behavior. 
+
+
+In Article detail, From 3 last image is cut off (in both orientation) (DONE)
+Go to the last page in Portrait mode, change the orientation it will open your app in second last page. (DONE)
+In the first page of the app, change the app mode from to face up/ face down, it will flickering the images. (DONE)
+Open the video and change the orientation, it will not play in proper frame and merge with other data too. (DONE)
+
+
+1. App crashes randomly 
+15. App crashes on continuous scrolling.
+3. In landscape mode: Go to the second page and change the orientation & app will return to the first page. . (DONE)
+6. In Article detail I can scroll up to more than content is available. . (DONE)
+
+
+14. In the first page of the app, change the app mode from to face up/ face down, it will flickering the images. . (DONE)
+13. Go to the last page in Portrait mode, change the orientation it will open your app in second last page. . (DONE)
+7. In Article detail, From 3 last image is cut off (in both orientation) (DONE)
+8. Open the video and change the orientation, it will not play in proper frame and merge with other data too. DONE
+
+12. On landscape, when scrolled to last page, cells not visible properly. Few data has been removed from the app.  NOT DONE
+
+11. open the article in Portrait mode, change it to landscape mode & return back to the main screen. It will change the offset and change it to weird behavior. NOT DONE
+2. On the last page in landscape mode there is a duplication of data. 
+5. First page in Landscape mode width of second and third data is not same. 
+
+
+
+
+
+
+ 
+
+

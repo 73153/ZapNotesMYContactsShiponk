@@ -1,0 +1,38 @@
+ 
+iOS Screen size
+
+iOS7, iOS8, iPhone 4, iPhone 4s, iPhone 5, iPhone 5s, iPhone 6, iPhone 6 Plus, iPad 2, iPad 3, iPad 4, iPad Mini, iPad Air, iPad Air 2 etc.
+Select graphics templete:
+  										     										 
+Edit
+Add new templete
+Default.png
+320x480
+ios/res/
+Default@2x.png
+640x960
+ios/res/
+Default-568h@2x.png
+640x1136
+ios/res/
+Default-667h@2x.png
+750x1334
+ios/res/
+Default-Landscape.png
+1024x768
+ios/res/
+Default-Landscape@2x.png
+2048x1536
+ios/res/
+Default-Landscape-736h@3x.png
+2208x1242
+ios/res/
+Default-Portrait.png
+768x1024
+ios/res/
+Default-Portrait@2x.png
+1536x2048
+ios/res/
+Default-Portrait-736h@3x.png
+1242x2208
+ios/res/
